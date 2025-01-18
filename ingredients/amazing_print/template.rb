@@ -1,0 +1,1 @@
+run "bundle add 'amazing_print'"
