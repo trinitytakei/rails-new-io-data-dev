@@ -1,2 +1,2 @@
-ruby 'bundle add "rspec"'
+run 'bundle add "rspec"'
 # run the rspec
