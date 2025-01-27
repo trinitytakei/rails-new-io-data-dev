@@ -1,2 +1,2 @@
-# rails-new-io-data-dev
-Repository created via railsnew.io
+# Data Repository
+This repository contains data for railsnew.io
