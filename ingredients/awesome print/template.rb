@@ -1,0 +1,1 @@
+run "bundle add 'awesome_print'"
