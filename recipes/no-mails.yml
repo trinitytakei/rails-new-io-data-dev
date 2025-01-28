@@ -1,0 +1,10 @@
+---
+:name: no-mails
+:description: No mail please.
+:cli_flags: "  --skip-action-mailer --skip-action-mailbox"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: awesome print
+  :position: 1
+  :configuration: {}
