@@ -1,2 +1,1 @@
-run 'bundle add "rspec"'
-# run the rspec
+run "bundle add 'rspec'"
