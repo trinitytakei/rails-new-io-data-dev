@@ -1,0 +1,10 @@
+---
+:name: No mail with amazing_print
+:description: What the name says!
+:cli_flags: "  --skip-action-mailer --skip-action-mailbox"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: awesome print (d)
+  :position: 1
+  :configuration: {}
