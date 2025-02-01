@@ -1,1 +1,1 @@
-run "bundle add 'awesome_print'"
+run "bundle add 'amazing_print'"
