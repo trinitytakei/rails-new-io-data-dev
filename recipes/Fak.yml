@@ -1,0 +1,7 @@
+---
+:name: Fak
+:description: Fuk
+:cli_flags: " -d postgresql -j bun -c tailwind --skip-docker --skip-kamal --skip-system-test"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients: []
