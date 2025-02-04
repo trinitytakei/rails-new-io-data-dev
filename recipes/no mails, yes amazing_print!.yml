@@ -1,0 +1,10 @@
+---
+:name: no mails, yes amazing_print!
+:description: Skips email-related shit and adds the amazing print gem
+:cli_flags: "  --skip-action-mailer --skip-action-mailbox"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: amazing print
+  :position: 1
+  :configuration: {}
