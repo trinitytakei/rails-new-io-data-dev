@@ -1,1 +1,1 @@
-run "bundle install 'amazing_print'"
+run "bundle add 'amazing_print'"
