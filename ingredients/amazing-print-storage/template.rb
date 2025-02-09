@@ -1,0 +1,1 @@
+run "bundle install 'amazing_print'"
