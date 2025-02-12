@@ -1,1 +1,1 @@
-run "bundle add 'amazing_print'"
+gem 'amazing_print'
