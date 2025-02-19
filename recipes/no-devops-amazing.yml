@@ -1,0 +1,10 @@
+---
+:name: no-devops-amazing
+:description: foo
+:cli_flags: " -d trilogy   --skip-docker --skip-kamal --skip-thruster --skip-ci"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: amazing print
+  :position: 1
+  :configuration: {}
