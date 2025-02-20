@@ -1,0 +1,16 @@
+---
+:name: minimal tailwind + forms
+:description: ''
+:cli_flags: "  -j esbuild -c tailwind --skip-docker --skip-kamal --skip-thruster --skip-ci
+  --skip-action-mailer --skip-action-mailbox --skip-action-text --skip-active-storage
+  --skip-action-cable --skip-active-job --skip-solid --skip-rubocop --skip-brakeman
+  --skip-devcontainer --skip-jbuilder --skip-bootsnap --skip-test --skip-system-test"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: rails auth
+  :position: 1
+  :configuration: {}
+- :name: tailwindcss-forms
+  :position: 2
+  :configuration: {}
