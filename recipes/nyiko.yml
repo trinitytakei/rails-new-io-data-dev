@@ -1,0 +1,9 @@
+---
+:name: nyiko
+:description: mikoe
+:cli_flags: " -d postgresql   --skip-docker --skip-kamal --skip-thruster --skip-ci
+  --skip-action-mailer --skip-action-mailbox --skip-active-record --skip-action-text
+  --skip-active-storage --skip-action-cable --skip-active-job --skip-solid"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients: []
