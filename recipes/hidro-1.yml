@@ -1,8 +1,7 @@
 ---
 :name: hidro-1
 :description: ''
-:cli_flags: " -d postgresql -j esbuild -c tailwind --skip-kamal --skip-action-mailer
-  --skip-bootsnap --skip-test --skip-system-test"
+:cli_flags: " -d postgresql -j bun  --skip-thruster --skip-action-mailer --skip-test"
 :rails_version: 8.0.1
 :ruby_version: 3.4.1
 :ingredients:
