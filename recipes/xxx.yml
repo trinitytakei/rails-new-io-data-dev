@@ -1,0 +1,8 @@
+---
+:name: xxx
+:description: wtf
+:cli_flags: "    --skip-active-record --skip-action-text --skip-active-storage --skip-solid
+  --skip-rubocop --skip-brakeman --skip-devcontainer --skip-jbuilder --skip-bootsnap"
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients: []
