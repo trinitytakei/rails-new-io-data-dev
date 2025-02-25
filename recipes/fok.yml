@@ -1,7 +1,7 @@
 ---
 :name: fok
 :description: ''
-:cli_flags: "    "
+:cli_flags: " -d postgresql   "
 :rails_version: 8.0.1
 :ruby_version: 3.4.1
 :ingredients:
