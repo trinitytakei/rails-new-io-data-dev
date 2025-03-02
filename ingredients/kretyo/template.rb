@@ -1,1 +1,1 @@
-klotyo "zso" "zsu"
+klotyo "zso" "zsu" de
