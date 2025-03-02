@@ -1,1 +1,1 @@
-klotyo "zso" "zsu" de
+klotyo "zso" "zsu" debosch
