@@ -1,1 +1,1 @@
-klotyo "#{snippet}" "#{snippet}"
+klotyo "zso" "zsu"
