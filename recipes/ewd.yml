@@ -1,0 +1,13 @@
+---
+:name: ewd
+:description: de
+:cli_flags: "    "
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: Rails Authentication Form Beautifier
+  :position: 1
+  :configuration: {}
+- :name: Simple Homepage
+  :position: 2
+  :configuration: {}
