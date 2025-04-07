@@ -32,3 +32,69 @@
 - :name: Registration for built-in Rails Auth
   :position: 9
   :configuration: {}
+- :name: Built-in Rails Authentication
+  :position: 10
+  :configuration: {}
+- :name: Apply form builder
+  :position: 11
+  :configuration: {}
+- :name: Registration for built-in Rails Auth
+  :position: 12
+  :configuration: {}
+- :name: Built-in Rails Authentication
+  :position: 13
+  :configuration: {}
+- :name: Rails Authentication Form Beautifier
+  :position: 14
+  :configuration: {}
+- :name: Apply form builder
+  :position: 15
+  :configuration: {}
+- :name: Registration for built-in Rails Auth
+  :position: 16
+  :configuration: {}
+- :name: Simple Homepage
+  :position: 17
+  :configuration: {}
+- :name: Built-in Rails Authentication
+  :position: 18
+  :configuration: {}
+- :name: Apply form builder
+  :position: 19
+  :configuration: {}
+- :name: Registration for built-in Rails Auth
+  :position: 20
+  :configuration: {}
+- :name: Built-in Rails Authentication
+  :position: 21
+  :configuration: {}
+- :name: Rails Authentication Form Beautifier
+  :position: 22
+  :configuration: {}
+- :name: Apply form builder
+  :position: 23
+  :configuration: {}
+- :name: Registration for built-in Rails Auth
+  :position: 24
+  :configuration: {}
+- :name: Built-in Rails Authentication
+  :position: 25
+  :configuration: {}
+- :name: Apply form builder
+  :position: 26
+  :configuration: {}
+- :name: Registration for built-in Rails Auth
+  :position: 27
+  :configuration: {}
+- :name: Built-in Rails Authentication
+  :position: 28
+  :configuration: {}
+- :name: Rails Authentication Form Beautifier
+  :position: 29
+  :configuration: {}
+- :name: Apply form builder
+  :position: 30
+  :configuration: {}
+- :name: Registration for built-in Rails Auth
+  :position: 31
+  :configuration: {}
