@@ -17,6 +17,3 @@
 - :name: Registration for built-in Rails Auth
   :position: 4
   :configuration: {}
-- :name: Simple Homepage
-  :position: 5
-  :configuration: {}
