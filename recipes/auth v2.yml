@@ -4,4 +4,19 @@
 :cli_flags: "   -c tailwind "
 :rails_version: 8.0.1
 :ruby_version: 3.4.1
-:ingredients: []
+:ingredients:
+- :name: Built-in Rails Authentication
+  :position: 1
+  :configuration: {}
+- :name: Rails Authentication Form Beautifier
+  :position: 2
+  :configuration: {}
+- :name: Apply form builder
+  :position: 3
+  :configuration: {}
+- :name: Registration for built-in Rails Auth
+  :position: 4
+  :configuration: {}
+- :name: Simple Homepage
+  :position: 5
+  :configuration: {}
