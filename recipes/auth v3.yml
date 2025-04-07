@@ -11,3 +11,6 @@
 - :name: Simple Homepage
   :position: 2
   :configuration: {}
+- :name: Simple Homepage
+  :position: 3
+  :configuration: {}
