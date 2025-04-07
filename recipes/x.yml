@@ -8,6 +8,3 @@
 - :name: Built-in Rails Authentication
   :position: 1
   :configuration: {}
-- :name: Simple Homepage
-  :position: 2
-  :configuration: {}
