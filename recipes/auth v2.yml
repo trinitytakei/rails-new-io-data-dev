@@ -1,7 +1,7 @@
 ---
 :name: auth v2
 :description: ''
-:cli_flags: "  -j esbuild -c tailwind "
+:cli_flags: "   -c tailwind "
 :rails_version: 8.0.1
 :ruby_version: 3.4.1
 :ingredients:
