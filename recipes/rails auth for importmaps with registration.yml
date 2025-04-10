@@ -1,0 +1,19 @@
+---
+:name: rails auth for importmaps with registration
+:description: rails auth for importmaps with registration
+:cli_flags: "    "
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: Built-in Rails Authentication
+  :position: 1
+  :configuration: {}
+- :name: Registration
+  :position: 2
+  :configuration: {}
+- :name: Registration view
+  :position: 3
+  :configuration: {}
+- :name: Simple Homepage
+  :position: 4
+  :configuration: {}
