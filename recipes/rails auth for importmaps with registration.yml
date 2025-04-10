@@ -1,7 +1,7 @@
 ---
 :name: rails auth for importmaps with registration
 :description: rails auth for importmaps with registration
-:cli_flags: "    "
+:cli_flags: "   -c tailwind "
 :rails_version: 8.0.1
 :ruby_version: 3.4.1
 :ingredients:
