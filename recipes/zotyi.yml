@@ -1,0 +1,10 @@
+---
+:name: zotyi
+:description: motyu
+:cli_flags: " -d mariadb-trilogy   "
+:rails_version: 8.0.1
+:ruby_version: 3.4.1
+:ingredients:
+- :name: Simple Homepage
+  :position: 1
+  :configuration: {}
