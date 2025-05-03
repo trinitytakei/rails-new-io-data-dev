@@ -11,9 +11,15 @@
 - :name: Registration
   :position: 2
   :configuration: {}
-- :name: Registration view
+- :name: Simple Homepage
   :position: 3
   :configuration: {}
-- :name: Simple Homepage
+- :name: Rails Authentication Form Beautifier
   :position: 4
+  :configuration: {}
+- :name: Apply form builder
+  :position: 5
+  :configuration: {}
+- :name: Registration view
+  :position: 6
   :configuration: {}
