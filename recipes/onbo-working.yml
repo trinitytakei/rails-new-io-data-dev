@@ -1,22 +1,19 @@
 ---
 :name: onbo-working
 :description: onba
-:cli_flags: "   -c tailwind --skip-test"
+:cli_flags: "   -c tailwind "
 :rails_version: 8.0.1
 :ruby_version: 3.4.1
 :ingredients:
-- :name: RSpec
+- :name: Rails authentication
   :position: 1
   :configuration: {}
-- :name: Rails authentication
+- :name: Registration
   :position: 2
   :configuration: {}
-- :name: Registration
+- :name: Registration view
   :position: 3
   :configuration: {}
-- :name: Registration view
-  :position: 4
-  :configuration: {}
 - :name: Simple Homepage
-  :position: 5
+  :position: 4
   :configuration: {}
